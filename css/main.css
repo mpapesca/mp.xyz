@@ -1,0 +1,31 @@
+body {
+  background-color: #E8E8E8;
+  font-weight: 200;
+  /*padding: 60px;*/
+}
+
+.mp-navbar {
+  background-color: #FFFFFF;
+}
+
+.mp-body {
+  background-color: #FFFFFF;
+  margin-top: 60px;
+  padding: 40px 40px;
+  height:455px;
+  text-align: center;
+}
+
+.mp-body .mp-title {
+  height: 50px;
+  font-size: 30px;
+  padding: 10px;
+  font-weight: 100;
+}
+
+.mp-text {
+  overflow: scroll;
+}
+.mp-footer {
+  height:100px;
+}
